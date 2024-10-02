@@ -1,0 +1,13 @@
+blinker==1.5
+click==8.0.4
+colorama==0.4.5
+Flask==2.0.3
+iniconfig==1.1.1
+itsdangerous
+Jinja2
+MarkupSafe
+packaging
+pluggy
+pytest
+pytest-flask
+Werkzeug
